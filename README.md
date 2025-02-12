@@ -196,10 +196,6 @@ GET: 3993610.25 requests per second
 
 *Running on a MacBook Pro 15" 2.8 GHz Intel Core i7 using Go 1.7*
 
-Contact
--------
-Josh Baker [@tidwall](http://twitter.com/tidwall)
-
 License
 -------
 Redcon source code is available under the MIT [License](/LICENSE).
